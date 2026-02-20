@@ -176,7 +176,7 @@ mode: AUTONOMOUS
 <div align="center">
 
 <a href="https://github.com/danindu2024">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danindu2024&show_icons=true&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danindu2024&show_icons=true&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/danindu2024">
@@ -187,7 +187,7 @@ mode: AUTONOMOUS
 
 <!-- GitHub Streak -->
 <a href="https://github.com/danindu2024">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danindu2024&theme=radical&background=0D1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=C9D1D9&border=00D4AA&stroke=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=danindu2024&theme=radical&background=0D1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=C9D1D9&border=00D4AA&stroke=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
