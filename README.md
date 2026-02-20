@@ -116,25 +116,52 @@ mode: AUTONOMOUS
 
 <h2 align="center">🔬 Training Pipeline — Currently Deep Diving</h2>
 
-<div align="center">
+<br/>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  📡 ACTIVE TRAINING OBJECTIVES                               │
-│  ════════════════════════════════════════════════             │
-│                                                              │
-│  [■■■■■■■■░░]  78%  Agentic AI & Multi-Agent Systems        │
-│  [■■■■■■■░░░]  70%  LLM Fine-Tuning & Prompt Engineering    │
-│  [■■■■■■░░░░]  60%  Clean Architecture & Domain-Driven Design│
-│  [■■■■■░░░░░]  50%  Cloud-Native Microservices (AWS/GCP)     │
-│  [■■■■░░░░░░]  40%  RAG Pipelines & Vector Databases         │
-│                                                              │
-│  STATUS: Actively training...                                │
-│  NEXT EPOCH: Advanced Agent Orchestration                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/78%25-00D4AA?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMSAxMC41VjZhMSAxIDAgMDAtMS0xSDRhMSAxIDAgMDAtMSAxdjEyYTEgMSAwIDAwMSAxaDE2YTEgMSAwIDAwMS0xdi00LjVNMTIgOXY2bTMtM0g5Ii8+PC9zdmc+"/>
+<br/>
+<strong>Agentic AI &<br/>Multi-Agent Systems</strong>
+<br/>
+<sub>🟢 Active Training</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/70%25-00B894?style=flat-square"/>
+<br/>
+<strong>LLM Fine-Tuning &<br/>Prompt Engineering</strong>
+<br/>
+<sub>🟢 Active Training</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/60%25-0984E3?style=flat-square"/>
+<br/>
+<strong>Clean Architecture &<br/>Domain-Driven Design</strong>
+<br/>
+<sub>🔵 In Progress</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/50%25-6C5CE7?style=flat-square"/>
+<br/>
+<strong>Cloud-Native<br/>Microservices</strong>
+<br/>
+<sub>🟣 Exploring</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/40%25-FD79A8?style=flat-square"/>
+<br/>
+<strong>RAG Pipelines &<br/>Vector Databases</strong>
+<br/>
+<sub>🔴 Queued</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<code>⚡ NEXT EPOCH: Advanced Agent Orchestration & Tool-Use Frameworks</code>
 
 </div>
 
