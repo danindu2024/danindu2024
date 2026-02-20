@@ -232,18 +232,10 @@ mode: AUTONOMOUS
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ramitha1111/Advertisement.lk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramitha1111&repo=Advertisement.lk&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA" />
+  <img src="./profile/ad-pin.svg" alt="Advertisement.lk Pin"/>
 </a>
 
 <br/><br/>
-
-<a href="https://github.com/danindu2024/YOUR_PROJECT_3">
-  <img src="./profile/ad-pin.svg" alt="Advertisement.lk Pin"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/danindu2024/YOUR_PROJECT_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danindu2024&repo=YOUR_PROJECT_4&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA" />
-</a>
 
 </div>
 
