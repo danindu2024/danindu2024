@@ -274,79 +274,29 @@ mode: AUTONOMOUS
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  ⚙️ SNAKE ANIMATION SETUP GUIDE                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<details>
-<summary><h3>⚙️ Snake Animation Setup</h3></summary>
-
-To enable the contribution snake animation, create a GitHub Action in your profile repository:
-
-1. In your `danindu2024/danindu2024` repo, create the file:  
-   `.github/workflows/snake.yml`
-
-2. Paste this workflow:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake Game from GitHub Contribution Grid
-        uses: Platane/snk@v3
-        with:
-          github_user_name: danindu2024
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to your repo **Settings → Actions → General** and ensure **"Read and write permissions"** is enabled under "Workflow permissions."
-
-4. Manually trigger the workflow once from the **Actions** tab, then it'll auto-run daily.
-
-</details>
-
 <!-- ─── FOOTER ─── -->
 
 <div align="center">
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   🤖 Agent: Danindu Ransika                          │
-│   📡 Signal: STRONG                                  │
-│   🔋 Energy: ████████████████████░ 95%               │
-│   🧠 Mode: AUTONOMOUS                               │
-│   ⚡ Status: Building the future, one commit at a    │
-│              time.                                   │
-│                                                      │
-│   ─────────────────────────────────────               │
-│   "Bridging the Gap Between Clean Code               │
-│    and Autonomous Intelligence."                     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/🤖_Agent-Danindu_Ransika-00D4AA?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📡_Signal-STRONG-00D4AA?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧠_Mode-AUTONOMOUS-00D4AA?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡_Status-Building%20the%20future%2C%20one%20commit%20at%20a%20time-FF6B6B?style=flat-square&labelColor=0D1117"/>
+
+<br/><br/>
+
+> _"Bridging the Gap Between Clean Code and Autonomous Intelligence."_
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
 </div>
 
