@@ -122,35 +122,35 @@ mode: AUTONOMOUS
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/78%25-00D4AA?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMSAxMC41VjZhMSAxIDAgMDAtMS0xSDRhMSAxIDAgMDAtMSAxdjEyYTEgMSAwIDAwMSAxaDE2YTEgMSAwIDAwMS0xdi00LjVNMTIgOXY2bTMtM0g5Ii8+PC9zdmc+"/>
+<img src="https://img.shields.io/badge/70%25-00D4AA?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMSAxMC41VjZhMSAxIDAgMDAtMS0xSDRhMSAxIDAgMDAtMSAxdjEyYTEgMSAwIDAwMSAxaDE2YTEgMSAwIDAwMS0xdi00LjVNMTIgOXY2bTMtM0g5Ii8+PC9zdmc+"/>
 <br/>
-<strong>Agentic AI &<br/>Multi-Agent Systems</strong>
-<br/>
-<sub>🟢 Active Training</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/70%25-00B894?style=flat-square"/>
-<br/>
-<strong>LLM Fine-Tuning &<br/>Prompt Engineering</strong>
+<strong>Professional Grade<br/>Kanban Project</strong>
 <br/>
 <sub>🟢 Active Training</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/60%25-0984E3?style=flat-square"/>
+<img src="https://img.shields.io/badge/62%25-00B894?style=flat-square"/>
 <br/>
-<strong>Clean Architecture &<br/>Domain-Driven Design</strong>
+<strong>Promotional Gateway<br/>For Customer Attraction</strong>
+<br/>
+<sub>🟢 Active Training</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/56%25-0984E3?style=flat-square"/>
+<br/>
+<strong>Annual Report<br/>Automation Project</strong>
 <br/>
 <sub>🔵 In Progress</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/50%25-6C5CE7?style=flat-square"/>
+<img src="https://img.shields.io/badge/40%25-6C5CE7?style=flat-square"/>
 <br/>
-<strong>Cloud-Native<br/>Microservices</strong>
+<strong>Robust Education<br/>Platform for Students</strong>
 <br/>
 <sub>🟣 Exploring</sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/40%25-FD79A8?style=flat-square"/>
+<img src="https://img.shields.io/badge/20%25-FD79A8?style=flat-square"/>
 <br/>
 <strong>RAG Pipelines &<br/>Vector Databases</strong>
 <br/>
