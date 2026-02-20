@@ -124,35 +124,35 @@ mode: AUTONOMOUS
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/70%25-00D4AA?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMSAxMC41VjZhMSAxIDAgMDAtMS0xSDRhMSAxIDAgMDAtMSAxdjEyYTEgMSAwIDAwMSAxaDE2YTEgMSAwIDAwMS0xdi00LjVNMTIgOXY2bTMtM0g5Ii8+PC9zdmc+"/>
 <br/>
-<strong>Professional Grade<br/>Kanban Project</strong>
+<strong>Clean Architecture<br/>And DDD</strong>
 <br/>
 <sub>🟢 Active Training</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/62%25-00B894?style=flat-square"/>
 <br/>
-<strong>Promotional Gateway<br/>For Customer Attraction</strong>
+<strong>Cloud-Native<br/>Microservices</strong>
 <br/>
 <sub>🟢 Active Training</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/56%25-0984E3?style=flat-square"/>
 <br/>
-<strong>Annual Report<br/>Automation Project</strong>
+<strong>RAG Pipelines<br/>And Vector Databases</strong>
 <br/>
 <sub>🔵 In Progress</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/40%25-6C5CE7?style=flat-square"/>
 <br/>
-<strong>Robust Education<br/>Platform for Students</strong>
+<strong>AI Orchestration<br/>& Agentic Workflows</strong>
 <br/>
 <sub>🟣 Exploring</sub>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/20%25-FD79A8?style=flat-square"/>
 <br/>
-<strong>RAG Pipelines &<br/>Vector Databases</strong>
+<strong>MLOps<br/>& LLM Evaluation</strong>
 <br/>
 <sub>🔴 Queued</sub>
 </td>
