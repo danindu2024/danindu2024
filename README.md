@@ -217,8 +217,6 @@ mode: AUTONOMOUS
 
 </div>
 
-> **⚙️ Setup Required:** The snake animation requires a GitHub Action. See the [Snake Setup Guide](#-snake-animation-setup) below.
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════ -->
