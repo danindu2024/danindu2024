@@ -138,7 +138,7 @@ mode: AUTONOMOUS
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/56%25-0984E3?style=flat-square"/>
 <br/>
-<strong>RAG Pipelines<br/>And Vector Databases</strong>
+<strong>RAG Pipelines<br/>& Vector Databases</strong>
 <br/>
 <sub>🔵 In Progress</sub>
 </td>
@@ -176,11 +176,11 @@ mode: AUTONOMOUS
 <div align="center">
 
 <a href="https://github.com/danindu2024">
-  <img height="180" src="https://github-readme-stats-2u6fwmf9h-danindus-projects-18be4b94.vercel.app/api?username=danindu2024&show_icons=true&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-danindus-projects-18be4b94.vercel.app/api?username=danindu2024&show_icons=true&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/danindu2024">
-  <img height="180" src="https://github-readme-stats-2u6fwmf9h-danindus-projects-18be4b94.vercel.app/api/top-langs/?username=danindu2024&layout=compact&theme=radical&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-danindus-projects-18be4b94.vercel.app/api/top-langs/?username=danindu2024&layout=compact&theme=radical&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </a>
 
 <br/><br/>
