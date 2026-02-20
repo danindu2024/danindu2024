@@ -176,11 +176,11 @@ mode: AUTONOMOUS
 <div align="center">
 
 <a href="https://github.com/danindu2024">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danindu2024&show_icons=true&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-2u6fwmf9h-danindus-projects-18be4b94.vercel.app/api?username=danindu2024&show_icons=true&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/danindu2024">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danindu2024&layout=compact&theme=radical&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-2u6fwmf9h-danindus-projects-18be4b94.vercel.app/api/top-langs/?username=danindu2024&layout=compact&theme=radical&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&border_color=00D4AA&hide_border=false&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
