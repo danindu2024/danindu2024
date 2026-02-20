@@ -223,22 +223,22 @@ mode: AUTONOMOUS
 <!--  🚀 DEPLOYED AGENTS — PINNED PROJECTS                  -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<h2 align="center">🚀 Deployed Agents — Pinned Missions</h2>
+<h2 align="center">🚀 Deployed Agents / Pinned Missions</h2>
 
 <div align="center">
 
-<a href="https://github.com/danindu2024/YOUR_PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danindu2024&repo=YOUR_PROJECT_1&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA" />
+<a href="https://github.com/danindu2024/kanban-project">
+  <img src="./profile/kanban-pin.svg" alt="Kanban Project Pin"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/danindu2024/YOUR_PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danindu2024&repo=YOUR_PROJECT_2&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA" />
+<a href="https://github.com/ramitha1111/Advertisement.lk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramitha1111&repo=Advertisement.lk&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/danindu2024/YOUR_PROJECT_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danindu2024&repo=YOUR_PROJECT_3&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA" />
+  <img src="./profile/ad-pin.svg" alt="Advertisement.lk Pin"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/danindu2024/YOUR_PROJECT_4">

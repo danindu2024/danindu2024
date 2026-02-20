@@ -31,6 +31,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
+      - name: Generate Kanban Project Pin
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=danindu2024&repo=kanban-project&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA'
+          path: profile/kanban-pin.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Generate Advertisement.lk Pin
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: 'username=ramitha1111&repo=Advertisement.lk&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=FF6B6B&text_color=C9D1D9&border_color=00D4AA'
+          path: profile/ad-pin.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
