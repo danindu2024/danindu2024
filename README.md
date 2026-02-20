@@ -258,8 +258,8 @@ mode: AUTONOMOUS
 ```
 ╔═════════════════════════════════════════════════════════╗
 ║                                                         ║
-║   💬  "The best code doesn't just run.                  ║
-║        It thinks, adapts, and evolves."                  ║
+║   💬  "The best code doesn't just run.                 ║
+║        It thinks, adapts, and evolves."                 ║
 ║                                                         ║
 ║   📡  Open for collaborations on:                       ║
 ║       → AI-Powered Applications                         ║
